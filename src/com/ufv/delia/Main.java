@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        //Ahora es la versión 2.0
+
         Perritos perro = new Perritos();
         Persona p = new Persona();
         Scanner sc = new Scanner(System.in);
